@@ -1,6 +1,6 @@
 """
-Estimated time:
-Actual time:
+Estimated time: 30 minutes
+Actual time: 40 minutes
 Pseudocode:
 class Guitar
     function __init__(self, name="", year=0, cost=0)
