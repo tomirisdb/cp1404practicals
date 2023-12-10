@@ -1,6 +1,6 @@
 """
-Estimated time:
-Actual time:
+Estimated time: 40 minutes
+Actual time: 45 minutes
 Pseudocode:
 function main
     guitars = []
