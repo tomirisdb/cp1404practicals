@@ -1,8 +1,6 @@
 """
 Estimated time: 10 minutes
 Actual time: 10 minutes
-Pseudocode:
-
 """
 
 
