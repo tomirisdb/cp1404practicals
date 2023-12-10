@@ -1,6 +1,6 @@
 """
-Estimated time:
-Actual time:
+Estimated time: 20 minutes
+Actual time: 20 minutes
 Pseudocode:
 function run_tests
     name = "Gibson L-5 CES"
